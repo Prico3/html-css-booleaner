@@ -1,0 +1,24 @@
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* COMMON */
+
+
+/* HEADER */
+header {
+    height: 100px;
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png); 
+    background-size: 30%;
+
+    }
+
+.logo {
+    text-align: left;
+    height: 10px;
+}    
+
