@@ -17,8 +17,21 @@ header {
 
     }
 
-.logo {
+#logo {
     text-align: left;
-    height: 10px;
+    height: 80px;
+    width: 150px;
 }    
 
+/* MAIN */
+
+h1{
+font-size: xx-large;
+margin-top: 10px;
+}
+.grey{
+    color: grey;
+}
+span{
+    color: rgb(6, 193, 250);
+}
